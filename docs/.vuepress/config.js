@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Sequelize 非官方中文文档',
+  title: 'Sequelize 中文文档',
   description: 'Just playing around',
   configureWebpack: {
     resolve: {
@@ -25,8 +25,8 @@ module.exports = {
         link: '/guide/'
       },
       {
-        text: 'External',
-        link: 'https://google.com'
+        text: 'GitHub',
+        link: 'https://github.com/putdoc/sequelize-docs-Zh-CN'
       },
     ],
     sidebar: 'auto'
